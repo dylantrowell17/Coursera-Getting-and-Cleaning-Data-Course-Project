@@ -1,7 +1,7 @@
 ## Coursera Getting and Cleaning Data Course Project
 
 ## About R script
-The R Script "run_analysis.R" prepares the data and then cleans it by performing the following steps as required by the assignment's instructions
+The R Script `run_analysis.R` prepares the data and then cleans it by performing the following steps as required by the assignment's instructions
 
 
 ## The original data was prepared by
